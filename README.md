@@ -1,16 +1,15 @@
-### Hi there 👋
+# Olá! 👋
 
-<!--
-**juliamssilva/juliamssilva** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Meu nome é Júlia, tenho 19 anos, e atualmente estou focada em desenvolver minhas habilidades em programação. 
 
-Here are some ideas to get you started:
+🎓 Técnico em Informática Integrado ao Ensino Médio  (2020-2022) <br>
+📚 Cursando graduação em Ciência de Dados e Inteligência Artificial pela Universidade Federal da Paraíba (2023-2027)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🖥️ Aperfeiçoando minhas skills 🖥️
+
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+
+![image](https://github.com/juliamssilva/juliamsilva/assets/139291854/ab77c062-f96e-4df9-9899-820056e464ec)
