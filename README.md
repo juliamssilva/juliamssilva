@@ -12,4 +12,5 @@ Meu nome é Júlia, tenho 19 anos, e atualmente estou focada em desenvolver minh
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 
-![image](https://github.com/juliamssilva/juliamsilva/assets/139291854/ab77c062-f96e-4df9-9899-820056e464ec)
+![image](https://github.com/juliamssilva/juliamssilva/assets/139291854/724e4745-cf5c-474a-b7fc-a3648b9dcac0)
+
