@@ -14,3 +14,11 @@ Meu nome é Júlia, tenho 19 anos, e atualmente estou focada em desenvolver minh
 
 ![image](https://github.com/juliamssilva/juliamssilva/assets/139291854/724e4745-cf5c-474a-b7fc-a3648b9dcac0)
 
+<div>
+<a href="https://github.com/juliamssilva">
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=juliamssilva&layout=compact&langs_count=7&theme=dracula"/>
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=juliamssilva&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+</div>
+
+
+![Snake animation](https://github.com/juliamssilva/juliamssilva/blob/output/github-contribution-grid-snake.svg)
