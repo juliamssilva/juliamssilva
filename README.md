@@ -16,6 +16,6 @@ Meu nome é Júlia, tenho 19 anos, e atualmente estou focada em desenvolver minh
 
 <div>
 <a href="https://github.com/juliamssilva">
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=juliamssilva&layout=compact&langs_count=7&theme=dracula"/>
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=juliamssilva&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/juliamssilva&layout=compact&langs_count=7&theme=dracula"/>
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?juliamssilva&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
