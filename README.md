@@ -16,4 +16,4 @@
 ![Postgres](https://img.shields.io/badge/Postgres-%23316192.svg?logo=postgresql&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=fff)
 
-![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=juliamssilva&theme=react-dark)]
+![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=juliamssilva&theme=react-dark)
